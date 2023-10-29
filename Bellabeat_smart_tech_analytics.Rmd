@@ -1,0 +1,12 @@
+---
+title: "Smart tech analysis - case study"
+author: "Diana Rios"
+date: "2023-10-29"
+output: html_document
+---
+
+
+## Introduction 
+
+This project aims to demonstrate key analytical skills acquired through the Google Data Analytics certification.
+
