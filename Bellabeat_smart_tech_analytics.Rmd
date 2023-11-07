@@ -8,5 +8,21 @@ output: html_document
 
 ## Introduction 
 
-This project aims to demonstrate key analytical skills acquired through the Google Data Analytics certification.
+This project aims to demonstrate key data analytics skills acquired through the Google Data Analytics certification. I will analyse smart device usage data to identify existing trends and make marketing recommendations for Bellabeat, a wellness tech company catering to women. 
+  
+#### Phase 1: Ask  
+  
+Business Task: Analyse current trends in fitness device usage of non-Bellabeat products with and apply the gathered insights to Bellabeat's marketing strategy.  
+
+This project aims to provide supporting evidence for future marketing strategies for Bellabeat. Bellabeat currently has two wellness fitness trackers, an app and a smart water bottle. The company has requested an analysis of publicly available data from other fitness tracking devices, in order to identify trends in how consumers use these. 
+
+Stakeholders:    
+ - Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer   
+ - Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team   
+ - Bellabeat marketing analytics team  
+
+### Phase 2: Prepare
+
+Analaysis of fitness tracking data will be performed on a publicly available dataset from Kaggle (<https://www.kaggle.com/datasets/arashnic/fitbit>). This dataset contains personal tracker data from 30 Fitbit customers
+
 
